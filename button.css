@@ -5,49 +5,43 @@
 	
 	padding-left :12px;
 	padding-right :12px;
-	margin:3px;
+	margin:4px;
 	border-color:black;
 	border-radius:10px;
+
 }
 
 .btn-primary{
 	background-color:blue;
 	color:white;
-
 }
 
 .btn-secondary{
 	background-color:gray;
 	color:white;
-	
 }
 
 .btn-success{
 	background-color:green;
 	color:white;
-	
-
 }
 
 
 .btn-danger{
 	background-color:red;
 	color:white;
-	
 }
 
 
 .btn-warning{
 	background-color:yellow;
 	color:black;
-
 }
 
 
 .btn-dark{
 	background-color:black;
 	color:white;
-	
 }
 
 .btn-1{
@@ -56,8 +50,6 @@
 	border-color:#060342;
 	border-style:outset;
 	border-radius:10px;
-
-
 }
 
 .btn-2{
@@ -74,7 +66,6 @@
 	border-color:black;
 	border-radius:10px; 
 	border-style:solid;
-	
 }
 
 
