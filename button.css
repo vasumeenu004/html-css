@@ -1,0 +1,81 @@
+.btn{
+	
+	padding-top:8px;
+	padding-bottom :8px;
+	
+	padding-left :12px;
+	padding-right :12px;
+	margin:3px;
+	border-color:black;
+	border-radius:10px;
+}
+
+.btn-primary{
+	background-color:blue;
+	color:white;
+
+}
+
+.btn-secondary{
+	background-color:gray;
+	color:white;
+	
+}
+
+.btn-success{
+	background-color:green;
+	color:white;
+	
+
+}
+
+
+.btn-danger{
+	background-color:red;
+	color:white;
+	
+}
+
+
+.btn-warning{
+	background-color:yellow;
+	color:black;
+
+}
+
+
+.btn-dark{
+	background-color:black;
+	color:white;
+	
+}
+
+.btn-1{
+	background-color:#060342;
+	color:white;
+	border-color:#060342;
+	border-style:outset;
+	border-radius:10px;
+
+
+}
+
+.btn-2{
+	background-color:#fdf4c7;
+	color:black;
+	border-color:black;
+	border-style:outset;
+	border-radius:10px;
+}
+
+.btn-3{
+	background-color:#b30f1a;
+	color:white;
+	border-color:black;
+	border-radius:10px; 
+	border-style:solid;
+	
+}
+
+
+
